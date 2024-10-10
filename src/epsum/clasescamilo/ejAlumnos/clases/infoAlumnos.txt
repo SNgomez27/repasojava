@@ -1,0 +1,4 @@
+Elena, 19, Dam, 2, 9
+Juan, 18, Daw, 1, 7
+Eva, 20, Marketing, 2, 8
+Francisco, 19, Dam, 2, 6
